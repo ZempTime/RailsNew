@@ -51,6 +51,7 @@ gem 'capistrano-bundler', '~> 1.1.2'
 gem 'capistrano-rails', '~> 1.1.1'
 
 gem 'capistrano-rbenv', github: "capistrano/rbenv"
+gem 'backup', '~> 4.1.8'
 
 gem 'bootstrap-sass', '~> 3.3.1.0'
 gem 'autoprefixer-rails', '~> 4.0.2.2'
