@@ -62,7 +62,7 @@ gem 'font-awesome-rails', '~> 4.7.0.5'
 gem 'html-pipeline', '~> 1.11.0'
 gem 'github-markdown', '~> 0.6.8'
 gem 'gemoji', '~> 2.1.0'
-gem 'sanitize', '~> 3.1.2'
+gem 'sanitize', '~> 6.0.2'
 gem 'will_paginate', '~> 3.0.7'
 gem 'bootstrap-will_paginate', '~> 0.0.10'
 
