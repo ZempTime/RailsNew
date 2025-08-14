@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '6.0.3.5'
+gem 'rails', '7.1.5.2'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -56,7 +56,7 @@ gem 'backup', '~> 4.1.8'
 gem 'bootstrap-sass', '~> 3.3.1.0'
 gem 'autoprefixer-rails', '~> 4.0.2.2'
 gem 'devise', '~> 4.7.0'
-gem 'retina_tag', '~> 1.3.1'
+gem 'retina_tag', '~> 1.4.0'
 gem 'font-awesome-rails', '~> 4.7.0.5'
 
 gem 'html-pipeline', '~> 1.11.0'
